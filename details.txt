@@ -1,0 +1,4 @@
+ek rectangle banao and jab mouse center per ho rectangle center per ho,
+jab mouse left jaana shuru ho rectangle bhi left jaana shuru hojae, 
+par jaise jaise mouse left jaaye rectangle ki speed left mei jaate jaate slow ho jae,
+same happpens right side as well
